@@ -36,5 +36,9 @@ pip install pandas requests pyspark matplotlib
 ## Results
 The analysis reveals an overall trend in Chicago’s crime frequency over the last decade, with a detailed year-by-year examination showing fluctuations likely due to various social factors. The peak crime hours indicate specific times when law enforcement presence might be most needed, while the top ten crime types, visualized in a bar chart, provide a snapshot of the city’s most common criminal activities, underscoring key areas for public safety initiatives.
 
+## Acknowledgments
+- City of Chicago Open Data Portal for providing the dataset.
+- Apache Spark documentation for guidance on using PySpark.
+
 ## License
 This project is licensed under the MIT License.
